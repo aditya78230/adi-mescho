@@ -22,7 +22,8 @@ This project is a clone of Meesho.com, an e-commerce platform where users can pu
 - HTML
 - CSS
 - JavaScript
-- [Additional technologies/frameworks used, if any]
+- ReactJs
+  
 
 ## Conclusion
 We put in our best efforts to replicate the Meesho website as part of Masai School's Mentorship program. This project helped us apply the skills and knowledge gained during the program effectively.
