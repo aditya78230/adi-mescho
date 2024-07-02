@@ -11,12 +11,12 @@ This project is a clone of Meesho.com, an e-commerce platform where users can pu
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot3.png)
-![Screenshot 4](/path/to/screenshot4.png)
-![Screenshot 5](/path/to/screenshot5.png)
-![Screenshot 6](/path/to/screenshot6.png)
+![Screenshot 1](img/op1.png)
+![Screenshot 2](img/op2.png)
+![Screenshot 3](img/op3.png)
+![Screenshot 4](img/op4.png)
+![Screenshot 5](img/op5.png)
+![Screenshot 6](img/op6.png)
 
 ## Technologies Used
 - HTML
